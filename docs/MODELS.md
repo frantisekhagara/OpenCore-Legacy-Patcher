@@ -122,10 +122,7 @@ The patcher is designed to target **macOS Big Sur 11.x to macOS Ventura 13.x**.
 | iMac (21.5-inch, Late 2015) | `iMac16,1` | ^^ |
 | iMac (Retina 4K, 21.5-inch, Late 2015) | `iMac16,2` | ^^ |
 | iMac (Retina 5K, 27-inch, Late 2015) | `iMac17,1` | ^^ |
-| iMac (21.5-inch, 2017) | `iMac18,1` | - Supported by Apple |
-| iMac (Retina 4K, 21.5-inch, 2017) | `iMac18,2` | ^^ |
-| iMac (Retina 5K, 27-inch, 2017) | `iMac18,3` | ^^ |
-| iMac (Retina 5K, 27-inch, 2019) | `iMac19,1` | ^^ |
+| iMac (Retina 5K, 27-inch, 2019) | `iMac19,1` | ^^ |  - Supported by Apple |
 | iMac (Retina 4K, 21.5-inch, 2019) | `iMac19,2` | ^^ |
 | iMac (Retina 5K, 27-inch, 2020) | `iMac20,1`<br>`iMac20,2` | ^^ |
 | iMac Pro (2017) | `iMacPro1,1` | ^^ |
